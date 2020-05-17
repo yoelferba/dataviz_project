@@ -180,11 +180,10 @@ theme = {
 #
 
 # ruta dónde se encuentran los datos descargados
-ruta = "/Users/yoelfballega/Desktop/Data_Science/Segundo_cuatri/Data_visualization/caso_practico/air_santi/"
+ruta = "/Users/yoelfballega/Desktop/Data_Science/Segundo_cuatri/Data_visualization/caso_practico/"
 os.chdir(ruta)
 
 # leemos los datos 
-
 df_covid = pd.read_csv(ruta + "covid_entrega.csv")
 rutas = pd.read_csv(ruta + "rutas_def2.csv")
 
