@@ -5,7 +5,6 @@ dash_html_components
 numpy
 arrow
 requests
-functools
 pandas
 plotly
 chart_studio
