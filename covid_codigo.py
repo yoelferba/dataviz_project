@@ -180,7 +180,7 @@ theme = {
 #
 
 # ruta dónde se encuentran los datos descargados
-ruta = "/Users/yoelfballega/Desktop/Data_Science/Segundo_cuatri/Data_visualization/caso_practico/"
+ruta = os.path.dirname(os.path.realpath(__file__))
 os.chdir(ruta)
 
 # leemos los datos 
