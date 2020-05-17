@@ -1,0 +1,14 @@
+dash
+dash_bootstrap_components
+cash_core_components
+dash_html_components
+numpy
+os
+arrow
+requests
+functools
+pandas
+plotly
+chart_studio
+flask
+dotenv
