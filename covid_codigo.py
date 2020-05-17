@@ -184,8 +184,8 @@ ruta = os.path.dirname(os.path.realpath(__file__))
 os.chdir(ruta)
 
 # leemos los datos 
-df_covid = pd.read_csv(ruta + "covid_entrega.csv")
-rutas = pd.read_csv(ruta + "rutas_def2.csv")
+df_covid = pd.read_csv(ruta + "/covid_entrega.csv")
+rutas = pd.read_csv(ruta + "/rutas_def2.csv")
 
 
 # realizamos unos cambios de útima hora (son inmediatos y cuesta menos que hacerlo manualmente en Excel)
