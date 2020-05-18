@@ -163,16 +163,16 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 14091,Changsha Datuopu Airport/AFB,Changsha,China,,ZGCS,28.0688991547,112.958000183,170,,airport,114.208,30.7838
 2188,Dubai International Airport,Dubai,United Arab Emirates,DXB,OMDB,25.252799987800003,55.3643989563,62,4.0,airport,114.208,30.7838
 8076,Al Maktoum International Airport,Dubai,United Arab Emirates,DWC,OMDW,24.896356,55.161389,114,4.0,airport,114.208,30.7838
-8588,All Airports,Paris,France,PAR,,48.856389,2.3522220000000003,107,1.0,airport,114.208,30.7838
-8590,All Airports,London,United Kingdom,LON,,51.508055999999996,-0.127778,66,0.0,airport,114.208,30.7838
-8591,All Airports,New York,United States,NYC,,40.714166999999996,-74.005833,31,-5.0,airport,114.208,30.7838
-8592,All Airports,Chicago,United States,CHI,,41.883611,-87.63166700000002,596,-6.0,airport,114.208,30.7838
-8594,All Airports,Tokyo,Japan,TYO,,35.689444,139.691667,123,9.0,airport,114.208,30.7838
-8595,All Airports,Beijing,China,BJS,,39.904167,116.40722199999999,171,8.0,airport,114.208,30.7838
-8596,All Airports,Milan,Italy,MIL,,45.463611,9.188056,402,1.0,airport,114.208,30.7838
-8597,All Airports,Washington,United States,WAS,,38.889444,-77.035278,25,-5.0,airport,114.208,30.7838
-8598,All Airports,Montreal,Canada,YMQ,,45.508611,-73.553889,53,-5.0,airport,114.208,30.7838
-8599,All Airports,Toronto,Canada,YTO,,43.653056,-79.38305600000002,302,-5.0,airport,114.208,30.7838
+8588,Paris International Airport,Paris,France,PAR,,48.856389,2.3522220000000003,107,1.0,airport,114.208,30.7838
+8590,London International Airport,London,United Kingdom,LON,,51.508055999999996,-0.127778,66,0.0,airport,114.208,30.7838
+8591,NYC International Airport,New York,United States,NYC,,40.714166999999996,-74.005833,31,-5.0,airport,114.208,30.7838
+8592,Chicago International Airport,Chicago,United States,CHI,,41.883611,-87.63166700000002,596,-6.0,airport,114.208,30.7838
+8594,Tokyo International Airport,Tokyo,Japan,TYO,,35.689444,139.691667,123,9.0,airport,114.208,30.7838
+8595,Beijing International Airport,Beijing,China,BJS,,39.904167,116.40722199999999,171,8.0,airport,114.208,30.7838
+8596,Milan International Airport,Milan,Italy,MIL,,45.463611,9.188056,402,1.0,airport,114.208,30.7838
+8597,Washington International Airport,Washington,United States,WAS,,38.889444,-77.035278,25,-5.0,airport,114.208,30.7838
+8598,Montreal International Airport,Montreal,Canada,YMQ,,45.508611,-73.553889,53,-5.0,airport,114.208,30.7838
+8599,Toronto International Airport,Toronto,Canada,YTO,,43.653056,-79.38305600000002,302,-5.0,airport,114.208,30.7838
 1553,Ciampino–G. B. Pastine International Airport,Rome,Italy,CIA,LIRA,41.7994,12.5949,427,1.0,airport,114.208,30.7838
 1229,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD,40.471926,-3.56264,1998,1.0,airport,114.208,30.7838
 2378,Gimpo International Airport,Seoul,South Korea,GMP,RKSS,37.5583,126.791,59,9.0,airport,114.208,30.7838
