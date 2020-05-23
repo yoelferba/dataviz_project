@@ -1,0 +1,15 @@
+1.- Cread y activado un entorno nuevo: conda create --name <nombre_nuevo_entorno> python=3.6;      source activate <nombre_nuevo_entorno>
+2.- Cread nueva carpeta para el despliegue: mkdir nombre_vuestra_app;       cd nombre_vuestra_app
+3.- Creamos entorno virtual. Previamente descargad virtualenv (pip install virtualenv):   git init;   virtualenv venv;    source venv/bin/activate
+4.- Después de activar el entorno: conda install pip;    pip install ... (todas las librerías que necesitéis).
+5.- Necesitamos cuatro documentos dentro de la carpeta para el despligue: requirements.txt, Procfile, el código con extensión .py, .gitignore.
+6.- Para requirements: pip freeze > requirements.txt.
+Vuestra_app.py   (vuestro código incluid esta línea de código debajo de “ app=dash.Dash() ”: server = app.server)
+
+7.- .gitignore (ojito al punto, es importante incluirlo en el nombre, https://github.com/github/gitignore/blob/master/Python.gitignore, copiad el contenido del enlace)
+
+8.- Procfile (la mayúscula para la "P" es importante, el contenido de este archivo es: web: gunicorn app:server) 
+
+9.- De vuelta a la consola, abierta dentro de la carpeta de la aplicación, escribimos y ejecutamos: heroku create your_app_name; git add; git commit -m "Initial commit”; heroku git:remote -a your_app_name; git push heroku master; heroku ps:scale web=1
+
+10.- Por último, para subir cambios al repositorio (por ejemplo si hemos cambiado el código), solo hay que hacer, desde la consola dentro de la carpeta de la aplicación (cd nombre_vuestra_app): "git add .", "git commit -m 'x-commit'", "git push heroku master"
