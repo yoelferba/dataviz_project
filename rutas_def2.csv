@@ -9,7 +9,6 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 3378,Lanzhou Zhongchuan Airport,Lanzhou,China,LHW,ZLLL,36.5152015686,103.620002747,6388,8.0,airport,114.208,30.7838
 3382,Kunming Changshui International Airport,Kunming,China,KMG,ZPPP,25.101944399999997,102.9291667,6903,8.0,airport,114.208,30.7838
 3385,Fuzhou Changle International Airport,Fuzhou,China,FOC,ZSFZ,25.93510055541989,119.66300201416,46,8.0,airport,114.208,30.7838
-3387,Ningbo Lishe International Airport,Ninbo,China,NGB,ZSNB,29.8267002105713,121.46199798584,13,8.0,airport,114.208,30.7838
 3388,Nanjing Lukou Airport,Nanjing,China,NKG,ZSNJ,31.742000579834,118.86199951171899,49,8.0,airport,114.208,30.7838
 3390,Liuting Airport,Qingdao,China,TAO,ZSQD,36.2661018372,120.374000549,33,8.0,airport,114.208,30.7838
 3391,Shanghai Hongqiao International Airport,Shanghai,China,SHA,ZSSS,31.197900772094695,121.33599853515601,10,8.0,airport,114.208,30.7838
