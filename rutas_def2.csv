@@ -4,7 +4,6 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 3370,Guangzhou Baiyun International Airport,Guangzhou,China,CAN,ZGGG,23.392400741577106,113.299003601074,50,8.0,airport,114.208,30.7838
 3372,Guilin Liangjiang International Airport,Guilin,China,KWL,ZGKL,25.2180995941162,110.03900146484399,570,8.0,airport,114.208,30.7838
 3373,Nanning Wuxu Airport,Nanning,China,NNG,ZGNN,22.608299255371104,108.171997070312,421,8.0,airport,114.208,30.7838
-3374,Shenzhen Bao'an International Airport,Shenzhen,China,SZX,ZGSZ,22.6392993927002,113.810997009277,13,8.0,airport,114.208,30.7838
 3376,Wuhan Tianhe International Airport,Bangkok,China,WUH,ZHHH,30.7838,114.208,113,8.0,airport,114.208,30.7838
 3378,Lanzhou Zhongchuan Airport,Lanzhou,China,LHW,ZLLL,36.5152015686,103.620002747,6388,8.0,airport,114.208,30.7838
 3382,Kunming Changshui International Airport,Kunming,China,KMG,ZPPP,25.101944399999997,102.9291667,6903,8.0,airport,114.208,30.7838
@@ -30,7 +29,6 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 4302,Jieyang Chaoshan International Airport,Shantou,China,SWA,ZGOW,23.552,116.5033,0,8.0,airport,114.208,30.7838
 4308,Dunhuang Airport,Dunhuang,China,DNH,ZLDH,40.1610984802246,94.80919647216801,0,8.0,airport,114.208,30.7838
 6351,Beihai Airport,Beihai,China,BHY,ZGBH,21.5394,109.293999,0,8.0,airport,114.208,30.7838
-6352,Changde Airport,Changde,China,CGD,ZGCD,28.9188995361,111.63999939,128,8.0,airport,114.208,30.7838
 6353,Dayong Airport,Dayong,China,DYG,ZGDY,29.1028,110.443001,692,8.0,airport,114.208,30.7838
 6354,Meixian Airport,Meixian,China,MXZ,ZGMX,24.350000381469695,116.133003234863,0,8.0,airport,114.208,30.7838
 6355,Zhuhai Jinwan Airport,Zhuhai,China,ZUH,ZGSD,22.006399,113.375999,23,8.0,airport,114.208,30.7838
@@ -63,7 +61,6 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 6413,Qiqihar Sanjiazi Airport,Qiqihar,China,NDG,ZYQQ,47.2396011352539,123.917999267578,477,8.0,airport,114.208,30.7838
 6414,Yanji Chaoyangchuan Airport,Yanji,China,YNJ,ZYYJ,42.8828010559,129.451004028,624,8.0,airport,114.208,30.7838
 6429,Shanhaiguan Airport,Qinhuangdao,China,SHP,ZBSH,39.968102,119.731003,30,8.0,airport,114.208,30.7838
-6431,Lanzhou City Airport,Lanzhou,China,,ZLAN,36.033333,103.86667,5040,8.0,airport,114.208,30.7838
 6432,Jiayuguan Airport,Jiayuguan,China,JGN,ZLJQ,39.856899,98.3414,5112,8.0,airport,114.208,30.7838
 6433,Dandong Airport,Dandong,China,DDG,ZYDD,40.0247,124.28600300000001,30,8.0,airport,114.208,30.7838
 6435,Bao'anying Airport,Panzhihua,China,PZI,ZUZH,26.54,101.79852,1620,8.0,airport,114.208,30.7838
@@ -74,7 +71,6 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 6946,Altay Air Base,Altay,China,AAT,ZWAT,47.7498855591,88.0858078003,2460,8.0,airport,114.208,30.7838
 6954,Manzhouli Xijiao Airport,Manzhouli,China,NZH,ZBMZ,49.566666999999995,117.33,2231,8.0,airport,114.208,30.7838
 6964,Jinggangshan Airport,Jian,China,JGS,ZSJA,26.8568992615,114.73699951200001,281,8.0,airport,114.208,30.7838
-7458,Huizhou Airport,Huizhou,China,HUZ,ZGHZ,23.0499992371,114.599998474,50,8.0,airport,114.208,30.7838
 7504,Longyan Guanzhishan Airport,Longyan,China,LCX,ZSLD,25.6746997833,116.747001648,1225,8.0,airport,114.208,30.7838
 7506,Xingyi Airport,Xingyi,China,ACX,ZUYI,25.0863888889,104.959444444,4150,8.0,airport,114.208,30.7838
 7508,Liping Airport,Liping,China,HZH,ZUNP,26.32217,109.1499,1620,8.0,airport,114.208,30.7838
@@ -90,7 +86,6 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 8630,Bayannur Tianjitai Airport,Bayannur,China,RLK,ZBYZ,40.926,107.7428,3400,8.0,airport,114.208,30.7838
 8826,Changbaishan Airport,Baishan,China,NBS,ZYBS,42.066944,127.602222,2874,8.0,airport,114.208,30.7838
 8845,Lingling Airport,Yongzhou,China,LLF,ZGLG,26.338661,111.61004299999999,340,8.0,airport,114.208,30.7838
-8876,Yangzhou Taizhou Airport,Yangzhou,China,YTY,ZSYA,32.5634,119.7198,7,8.0,airport,114.208,30.7838
 8889,Tianshui Maijishan Airport,Tianshui,China,THQ,ZLTS,34.559398651100004,105.86000061,3590,8.0,airport,114.208,30.7838
 8971,Guyuan Liupanshan Airport,Guyuan,China,GYU,ZLGY,36.078888888899996,106.21694444399999,5696,8.0,airport,114.208,30.7838
 8979,Jiagedaqi Airport,Jiagedaqi District,China,JGD,ZYJD,50.371389,124.1175,1205,8.0,airport,114.208,30.7838
@@ -106,13 +101,10 @@ AirportID,Name,City,Country,IATA,ICAO,Start_Latitude,Start_Longitude,Altitude,Ti
 10942,Hengyang Nanyue Airport,Hengyang,China,HNY,ZGHY,26.9053,112.627998,0,8.0,airport,114.208,30.7838
 10943,Hongyuan Airport,Ngawa,China,AHJ,ZUHY,32.53154,102.35224000000001,11600,8.0,airport,114.208,30.7838
 11714,Shaxian Airport,Sanming,China,SQJ,ZSSM,26.4263,117.8336,830,8.0,airport,114.208,30.7838
-12047,Guangzhou MR Air Base,Guanghua,China,LHK,ZHGH,32.3894004821777,111.694999694824,0,,airport,114.208,30.7838
-12048,Shiyan Wudangshan Airport,Shiyan,China,WDS,ZHSY,32.591667,110.90777800000001,0,,airport,114.208,30.7838
 12052,Bengbu Airport,Bengbu,China,BFU,ZSBB,32.8477333333,117.320244444,100,,airport,114.208,30.7838
 12055,Shanshan Airport,Shanshan,China,SXJ,ZWSS,42.9117012023926,90.24749755859379,0,,airport,114.208,30.7838
 13192,Delingha Airport,Haixi,China,HXD,ZLDL,37.125285999999996,97.268658,9843,8.0,airport,114.208,30.7838
 13193,Qionghai Bo'ao Airport,Qionghai,China,BAR,ZJQH,19.13824,110.454775,30,8.0,airport,114.208,30.7838
-13229,Shaoyang Wugang Airport,Shaoyang,China,WGN,ZGSY,26.802,110.64200000000001,1444,8.0,airport,114.208,30.7838
 13257,Renk Airport,Huangshan,China,,HSRN,11.832469272300001,32.8104972839,1278,8.0,airport,114.208,30.7838
 13473,Songyuan Chaganhu Airport,Songyuan,China,YSQ,ZYSQ,44.938114,124.550178,459,8.0,airport,114.208,30.7838
 13476,Zunyi Maotai Airport,Zunyi,China,WMT,ZUMT,27.81638,106.33268000000001,4068,8.0,airport,114.208,30.7838
